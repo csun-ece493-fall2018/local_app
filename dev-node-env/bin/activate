@@ -78,7 +78,7 @@ if [ "${BASH_SOURCE}" ] ; then
 else
     # dash not movable. fix use case:
     #   dash -c " . node-env/bin/activate && node -v"
-    NODE_VIRTUAL_ENV="/home/saba/Documents/workstation3/dev-node-env"
+    NODE_VIRTUAL_ENV="/Users/janamian/Documents/workstation/dummy_delete/dev-node-env"
 fi
 
 # NODE_VIRTUAL_ENV is the parent of the directory where this script is

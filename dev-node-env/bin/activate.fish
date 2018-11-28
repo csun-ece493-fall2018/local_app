@@ -75,7 +75,7 @@ end
 deactivate_node nondestructive
 
 # NODE_VIRTUAL_ENV is the parent of the directory where this script is
-set -gx NODE_VIRTUAL_ENV /home/saba/Documents/workstation3/dev-node-env
+set -gx NODE_VIRTUAL_ENV /Users/janamian/Documents/workstation/dummy_delete/dev-node-env
 
 set -gx _OLD_NODE_VIRTUAL_PATH $PATH
 # The node_modules/.bin path doesn't exists and it will print a warning, and

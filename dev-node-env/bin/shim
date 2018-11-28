@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-export NODE_PATH=/home/saba/Documents/workstation3/dev-node-env/lib/node_modules
-export NPM_CONFIG_PREFIX=/home/saba/Documents/workstation3/dev-node-env
-export npm_config_prefix=/home/saba/Documents/workstation3/dev-node-env
+export NODE_PATH=/Users/janamian/Documents/workstation/dummy_delete/dev-node-env/lib/node_modules
+export NPM_CONFIG_PREFIX=/Users/janamian/Documents/workstation/dummy_delete/dev-node-env
+export npm_config_prefix=/Users/janamian/Documents/workstation/dummy_delete/dev-node-env
 exec dev-node-env/bin/node "$@"
